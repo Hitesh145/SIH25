@@ -1,0 +1,5628 @@
+[
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:46:59 +0530",
+    "method": "GET",
+    "path": "/DBMS",
+    "query": {},
+    "normalized_query": {},
+    "status": 301,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:46:59 +0530",
+    "method": "GET",
+    "path": "/DBMS/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:46:59 +0530",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:47:10 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:47:16 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:47:21 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:48:27 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:48:33 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:49:52 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:50:00 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/lib/codemirror.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/css/theme.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/lint/lint.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/sprintf.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/ajax.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/keyhandler.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery-migrate.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/name-conflict-fixes.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/js.cookie.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.validate.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/cross_framing_protection.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/menu_resizer.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery-ui.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/config.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/navigation.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/functions.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/indexes.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/doclinks.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/common.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/page_settings.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/home.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/mode/sql/sql.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/lint/lint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/tracekit.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/error_report.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/shortcuts_handler.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/logo_left.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/drag_drop_import.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/dot.gif",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/console.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/messages.php",
+    "query": {
+      "l": "en",
+      "v": "5.2.1",
+      "lang": "en"
+    },
+    "normalized_query": {
+      "l": "<STR>",
+      "v": "<STR>",
+      "lang": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:43 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/lib/codemirror.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_home.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_docs.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_reload.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_loggoff.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_cog.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_sqlhelp.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_plus.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_newdb.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_collapseall.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_link.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_db.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_host.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_rights.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_import.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_status.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_sql.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_export.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblops.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_engine.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_asci.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_replication.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_vars.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_plugin.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_top.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_help.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/console.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_lang.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_theme.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/window-new.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/favicon.ico",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure/favorite-table",
+      "ajax_request": "1",
+      "favorite_table": "1",
+      "sync_favorite_tables": "1",
+      "lang": "en"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "favorite_table": "<NUM>",
+      "sync_favorite_tables": "<NUM>",
+      "lang": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:44 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/version-check"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:45 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/set"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:48 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:48 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure",
+      "db": "mysql",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291707962527968",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:49 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_routines.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:49 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_props.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:49 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_search.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:49 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_events.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_triggers.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/centralColumns.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_relations.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/eye.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/database/structure.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/arrow_ltr.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_no_favorite.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_asc.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/table/change.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/bd_browse.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_insrow.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/bd_empty.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/bd_select.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_drop.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_select.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_browse.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_empty.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:49 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_table_add.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_print.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_edit.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblanalyse.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:49 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_views.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_minus.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:50 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:51 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/hide.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure",
+      "db": "mysql",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291714173222824",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:54 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:51:59 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:00 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/operations",
+      "db": "test",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291720822133034",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:01 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_comment.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:01 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_deltbl.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:01 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/database/operations.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:01 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:06 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:09 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/operations",
+      "db": "phpmyadmin",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291729536829271",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:09 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:09 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:09 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:13 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/server/privileges",
+      "db": "phpmyadmin",
+      "checkprivsdb": "phpmyadmin",
+      "viewing_mode": "db",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291748064702677",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "checkprivsdb": "<STR>",
+      "viewing_mode": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_usrcheck.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_usredit.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblexport.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_usradd.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/zxcvbn-ts.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/server/privileges.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:28 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:31 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure",
+      "db": "phpmyadmin",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291751966310689",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:32 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:37 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/sql",
+      "db": "phpmyadmin",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291757483313960",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:37 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:37 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/makegrid.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:37 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/sql.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:37 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:38 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:42 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/search",
+      "db": "phpmyadmin",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740291761999249505",
+      "token": "4b7537786832534c5a5e242d676e4a62"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:42 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/database/search.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Feb/2025:11:52:42 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:21 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:32 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/messages.php",
+    "query": {
+      "l": "en",
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "l": "<STR>",
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:32 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:32 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:32 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:32 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure/favorite-table",
+      "ajax_request": "1",
+      "favorite_table": "1",
+      "sync_favorite_tables": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "favorite_table": "<NUM>",
+      "sync_favorite_tables": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:32 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/version-check"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:33 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/set"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:45 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/operations",
+      "db": "mysql",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740474105075161890",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:45 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:45 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:46 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:46 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:31:46 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:32:25 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure",
+      "db": "mysql",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740474145258615179",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:32:26 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:32:28 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/sql",
+      "db": "mysql",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740474148968299322",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:32:29 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:17 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_lock.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:17 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/sql/autocomplete"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:17 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:28 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:30 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:49 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/faq.html",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/classic.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/pygments.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/documentation_options.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/basic.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/underscore.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/doctools.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:33:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/doc/html/_static/jquery.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:04 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/url.php",
+    "query": {
+      "url": "https://dev.mysql.com/doc/refman/8.0/en/select.html"
+    },
+    "normalized_query": {
+      "url": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:29 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/import"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:30 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_view_add.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:30 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_success.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:30 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_bookmark.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:30 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_tbl.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:30 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblimport.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:30 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:34:31 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:35:32 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/sql",
+      "pos": "0",
+      "db": "job_portal",
+      "table": "jobseeker",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740474332911462075",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "pos": "<NUM>",
+      "db": "<STR>",
+      "table": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:35:33 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/multi_column_sort.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:35:33 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/gis_data_editor.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:35:33 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/recent-table",
+      "ajax_request": "1",
+      "recent_table": "1",
+      "no_debug": "true",
+      "_nocache": "1740474333469385028",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "recent_table": "<NUM>",
+      "no_debug": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:35:56 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:36:57 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:03 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:27 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_unlink.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:46 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/sql",
+      "pos": "0",
+      "db": "job_portal",
+      "table": "jobseeker"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "pos": "<NUM>",
+      "db": "<STR>",
+      "table": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:46 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:46 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/recent-table",
+      "ajax_request": "1",
+      "recent_table": "1",
+      "no_debug": "true",
+      "_nocache": "174047446673074075",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "recent_table": "<NUM>",
+      "no_debug": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:46 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:46 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:47 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/set"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:37:51 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:01 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/table/sql",
+      "db": "job_portal",
+      "table": "jobseeker",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740474481533245654",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "table": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:01 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:01 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/recent-table",
+      "ajax_request": "1",
+      "recent_table": "1",
+      "no_debug": "true",
+      "_nocache": "1740474481854806395",
+      "token": "3439224562794446374a56297c262d7e"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "recent_table": "<NUM>",
+      "no_debug": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:01 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:05 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:14 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:38:41 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:44 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:48 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:49 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:51 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:53 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:55 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:57 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/sql/autocomplete"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:40:58 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:00 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:01 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/lint"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:13 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:22 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/import"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:24 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_chart.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:25 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/col_drop.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:25 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/col_pointer.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:41:25 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_fulltext.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:18 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:20 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:20 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:20 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:20 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure/favorite-table",
+      "ajax_request": "1",
+      "favorite_table": "1",
+      "sync_favorite_tables": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "favorite_table": "<NUM>",
+      "sync_favorite_tables": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:20 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/version-check"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:14:53:21 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/set"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:06:56 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:06:59 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:06:59 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/pause.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:06:59 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_index.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:07:02 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:07:02 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_column_add.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:07:02 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_primary.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:10:51 +0530",
+    "method": "GET",
+    "path": "/DBMS/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:10:51 +0530",
+    "method": "GET",
+    "path": "/DBMS/script.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:10:57 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:18 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/sql",
+      "pos": "0",
+      "db": "job_portal",
+      "table": "company",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1740476478532719992",
+      "token": "352531664e79477326486c7b21314642"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "pos": "<NUM>",
+      "db": "<STR>",
+      "table": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:18 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/recent-table",
+      "ajax_request": "1",
+      "recent_table": "1",
+      "no_debug": "true",
+      "_nocache": "174047647896466945",
+      "token": "352531664e79477326486c7b21314642"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "recent_table": "<NUM>",
+      "no_debug": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:20 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:20 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_index_add.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:24 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:24 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:26 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:11:54 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:12:05 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:12:25 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:12:32 +0530",
+    "method": "POST",
+    "path": "/DBMS/data.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:12:35 +0530",
+    "method": "GET",
+    "path": "/DBMS/fetch_table.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 404,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:13:33 +0530",
+    "method": "GET",
+    "path": "/DBMS/fetch_table.php",
+    "query": {},
+    "normalized_query": {},
+    "status": 404,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Feb/2025:15:35:14 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:55:54 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/lib/codemirror.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/css/theme.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/lint/lint.css",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/sprintf.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/keyhandler.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/ajax.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/name-conflict-fixes.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery-migrate.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/bootstrap/bootstrap.bundle.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/js.cookie.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery-ui-timepicker-addon.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.validate.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/cross_framing_protection.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.debounce-1.0.6.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/menu_resizer.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery-ui.min.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/config.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/navigation.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/functions.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/indexes.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/common.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/page_settings.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/doclinks.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/mode/sql/sql.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/runmode/runmode.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/hint/show-hint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/hint/sql-hint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/codemirror/addon/lint/sql-lint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/addon/lint/lint.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/tracekit.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/drag_drop_import.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/dot.gif",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/error_report.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/shortcuts_handler.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/console.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/messages.php",
+    "query": {
+      "l": "en",
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "l": "<STR>",
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:13 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/codemirror/lib/codemirror.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:14 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_error.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:14 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_help.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:14 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/favicon.ico",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:17:56:32 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:01:36 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/url.php",
+    "query": {
+      "url": "https://dev.mysql.com/doc/refman/5.7/en/server-error-reference.html"
+    },
+    "normalized_query": {
+      "url": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:35 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/home.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/logo_left.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_home.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_loggoff.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_docs.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/get"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure/favorite-table",
+      "ajax_request": "1",
+      "favorite_table": "1",
+      "sync_favorite_tables": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "favorite_table": "<NUM>",
+      "sync_favorite_tables": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_db.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_plus.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblops.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_asci.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_sqlhelp.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_cog.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_reload.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_collapseall.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_link.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_newdb.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_host.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_sql.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_status.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_rights.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_export.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_import.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_replication.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_vars.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_engine.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_plugin.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_top.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/console.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_lang.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_theme.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/window-new.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:40 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/version-check"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:41 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/config/set"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:45 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:45 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/database/structure",
+      "db": "job_portal",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1741264365207180441",
+      "token": "263d7b45432273654376445377543b5c"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_props.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_events.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_routines.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_search.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_triggers.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_no_favorite.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_insrow.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_drop.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/bd_browse.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/arrow_ltr.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/bd_empty.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/bd_select.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_browse.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_empty.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_select.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_asc.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/eye.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_relations.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/centralColumns.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/table/change.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/database/structure.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_print.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblanalyse.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_table_add.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/navigation",
+      "ajax_request": "1"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:47 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_minus.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:49 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_desc.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:51 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/sql",
+      "db": "job_portal",
+      "table": "company",
+      "pos": "0",
+      "ajax_request": "true",
+      "ajax_page_request": "true",
+      "_nocache": "1741264371088772179",
+      "token": "263d7b45432273654376445377543b5c"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "db": "<STR>",
+      "table": "<STR>",
+      "pos": "<NUM>",
+      "ajax_request": "<STR>",
+      "ajax_page_request": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_tbl.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblimport.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_tblexport.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_success.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_edit.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_chart.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_view_add.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/b_bookmark.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/multi_column_sort.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/vendor/jquery/jquery.uitablefilter.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_fulltext.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/gis_data_editor.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/makegrid.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/js/dist/sql.js",
+    "query": {
+      "v": "5.2.1"
+    },
+    "normalized_query": {
+      "v": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/col_drop.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/col_pointer.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/recent-table",
+      "ajax_request": "1",
+      "recent_table": "1",
+      "no_debug": "true",
+      "_nocache": "1741264373116376533",
+      "token": "263d7b45432273654376445377543b5c"
+    },
+    "normalized_query": {
+      "route": "<STR>",
+      "ajax_request": "<NUM>",
+      "recent_table": "<NUM>",
+      "no_debug": "<STR>",
+      "_nocache": "<NUM>",
+      "token": "<TOKEN>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/s_unlink.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:02:53 +0530",
+    "method": "GET",
+    "path": "/phpmyadmin/themes/pmahomme/img/hide.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:26:49 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:18:49:26 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "06/Mar/2025:19:11:45 +0530",
+    "method": "POST",
+    "path": "/phpmyadmin/index.php",
+    "query": {
+      "route": "/"
+    },
+    "normalized_query": {
+      "route": "<STR>"
+    },
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/stylesheets/normalize.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/fastly-logo.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/stylesheets/all.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/xampp-logo.svg",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/javascripts/modernizr.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/javascripts/all.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/social-icons.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "23/Sep/2025:22:15:11 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/favicon.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/stylesheets/normalize.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/stylesheets/all.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/fastly-logo.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/xampp-logo.svg",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/javascripts/modernizr.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/javascripts/all.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/social-icons.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:49:56 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/favicon.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:55:42 +0530",
+    "method": "GET",
+    "path": "/app1",
+    "query": {},
+    "normalized_query": {},
+    "status": 404,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:55:43 +0530",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:24 +0530",
+    "method": "GET",
+    "path": "/dashboard/",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:24 +0530",
+    "method": "GET",
+    "path": "/dashboard/stylesheets/normalize.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/stylesheets/all.css",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/javascripts/modernizr.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/xampp-logo.svg",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/fastly-logo.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/javascripts/all.js",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/social-icons.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "24/Sep/2025:23:59:25 +0530",
+    "method": "GET",
+    "path": "/dashboard/images/favicon.png",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:00:00:42 +0530",
+    "method": "GET",
+    "path": "/app1",
+    "query": {},
+    "normalized_query": {},
+    "status": 404,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:00:00:42 +0530",
+    "method": "GET",
+    "path": "/favicon.ico",
+    "query": {},
+    "normalized_query": {},
+    "status": 200,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:12:43:39 +0530",
+    "method": "GET",
+    "path": "/app1",
+    "query": {},
+    "normalized_query": {},
+    "status": 500,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:22:38:12 +0530",
+    "method": "GET",
+    "path": "/app1",
+    "query": {},
+    "normalized_query": {},
+    "status": 500,
+    "user_agent": "curl/8.14.1"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:22:57:20 +0530",
+    "method": "GET",
+    "path": "/ecommerce/cart",
+    "query": {
+      "item": "123"
+    },
+    "normalized_query": {
+      "item": "<NUM>"
+    },
+    "status": 404,
+    "user_agent": "curl/8.14.1"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:22:57:20 +0530",
+    "method": "GET",
+    "path": "/rest-api/users",
+    "query": {
+      "id": "42"
+    },
+    "normalized_query": {
+      "id": "<NUM>"
+    },
+    "status": 404,
+    "user_agent": "curl/8.14.1"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:22:57:26 +0530",
+    "method": "GET",
+    "path": "/blog-cms/post",
+    "query": {
+      "id": "7"
+    },
+    "normalized_query": {
+      "id": "<NUM>"
+    },
+    "status": 404,
+    "user_agent": "curl/8.14.1"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "25/Sep/2025:23:23:40 +0530",
+    "method": "GET",
+    "path": "/app1/login",
+    "query": {
+      "user": "admin"
+    },
+    "normalized_query": {
+      "user": "<STR>"
+    },
+    "status": 500,
+    "user_agent": "curl/8.14.1"
+  }
+]

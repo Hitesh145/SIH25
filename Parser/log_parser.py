@@ -1,5 +1,6 @@
 # This module will parse the logs into a well structured format 
 
+import os
 import re
 import json
 from urllib.parse import urlparse, parse_qs
@@ -20,6 +21,8 @@ def normalize_value(value):
         return "<UUID>"
     elif re.match(r"^[A-Za-z0-9\-_]{20,}$", value):
         return "<TOKEN>"
+    elif isinstance(value, list):
+        value = value[0]
     else:
         return "<STR>"
 
@@ -31,6 +34,7 @@ def normalize_query(query):
 def parse_log_line(line):
     match = LOG_PATTERN.match(line)
     if not match:
+        print(f"Skipped malformed line: {line}")
         return None
 
     data = match.groupdict()
@@ -62,14 +66,13 @@ def parse_log_file(filepath):
 
 if __name__ == "__main__":
     parsed_logs = parse_log_file("C:/xampp/apache/logs/access.log")
-    count = 3
-    for entry in parsed_logs:
-        count -= 1
-        if count > 0:
-            print(json.dumps(entry, indent=2))
+
+    for entry in parsed_logs[:3]:
+        print(json.dumps(entry, indent=2))
     
+    os.makedirs("logs", exist_ok=True)
     # Save to JSON file
     with open("logs/parsed_logs.json", "w" , encoding="utf-8") as out:
         json.dump(parsed_logs, out, indent=2)
-
+        
     print(f"Saved {len(parsed_logs)} parsed entries to parsed_logs.json")

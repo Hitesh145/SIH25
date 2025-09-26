@@ -5624,5 +5624,19 @@
     },
     "status": 500,
     "user_agent": "curl/8.14.1"
+  },
+  {
+    "ip": "::1",
+    "timestamp": "26/Sep/2025:17:07:43 +0530",
+    "method": "GET",
+    "path": "/app1/login",
+    "query": {
+      "user": "admin"
+    },
+    "normalized_query": {
+      "user": "<STR>"
+    },
+    "status": 500,
+    "user_agent": "curl/8.14.1"
   }
 ]

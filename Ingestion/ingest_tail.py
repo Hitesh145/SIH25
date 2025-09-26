@@ -1,5 +1,5 @@
 import time
-
+# from live.inference_engine import score_request
 
 # this is used to keep eye on the live requests 
 # When a new request is made it acces it and print it on terminal
@@ -14,5 +14,13 @@ def stream_logs(log_path):
                 time.sleep(0.5)
                 continue
             print(line.strip())
+            # log_entry = line.strip()
+            # score = score_request(log_entry)
+            # label = "suspicious" if score > 0.6 else "benign"
+            # print(f"[{label.upper()}] {log_entry} → Score: {score:.2f}")
 
-stream_logs(r'C:\xampp\apache\logs\access.log')
+
+try:
+    stream_logs(r'C:\xampp\apache\logs\access.log')
+except KeyboardInterrupt:
+    print("Stopped log streaming.")
